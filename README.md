@@ -10,7 +10,7 @@ The Healthcare Risk Assessment repository is a web application designed to asses
 3. Here I plotted the co-relation of gender, blood Group type and the medical Conditon in a heatmap for graphic visualization
    <img width="752" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/a187332c-5dac-40f0-bd39-12c41eb69be9">
 
-4. Finding out the Average billing amount for each medical condition using groupby function to aggregate the billing amount for each Medical Condition.
+4. Finding out the Average billing amount using groupby function to aggregate the billing amount for each Medical Condition.
     <img width="778" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/68ca540f-d566-4850-a9ee-2feb0585ca26">
 
 5. From here the data I prepared that can be used as a training data for my web application
@@ -18,7 +18,8 @@ The Healthcare Risk Assessment repository is a web application designed to asses
      <img width="787" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/11639c69-ccf2-4cac-9ea7-26a5c5a7e27d">
 
 6. Exported the training data as 'medical_condition_risk.csv'
-     <img width="787" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/f86d4355-2ad5-4241-a59a-5608f4b23218">
+    <img width="784" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/614cb116-3dea-4372-be0c-d2ea0091d8cb">
+
 
 
 
