@@ -22,11 +22,11 @@ The Healthcare Risk Assessment repository is a web application designed to asses
 
 Web Application using HTML, CSS, JavaScript, CSV file as database
 
+Application demonstration
 <img width="1076" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/6c6d2cce-e033-4b38-a28b-68149287e644">
 
-Here The CSV file is generated as a backend store for users with user data appended everytime in the CSV file everytime a new user presses the submit button.
+A CSV file serves as the backend store for user data. Each time a new user submits their information, it's appended to the CSV file.
 <img width="311" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/cc45c1b1-c0f9-49b5-8eb2-2f03d1c9dce4">
-
 
 Video demonstration of the application can be found in below drive link
 https://drive.google.com/file/d/1W6dobAqyXBnpYTX1LrrlODSMKh2gIRut/view?usp=sharing
