@@ -14,11 +14,13 @@ The Healthcare Risk Assessment repository is a web application designed to asses
     <img width="778" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/68ca540f-d566-4850-a9ee-2feb0585ca26">
 
 5. From here the data I prepared that can be used as a training data for my web application
-     <img width="782" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/0bca188d-8571-4ae3-817a-5a78dcc6f05c">
-     <img width="787" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/11639c69-ccf2-4cac-9ea7-26a5c5a7e27d">
+    <img width="782" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/0bca188d-8571-4ae3-817a-5a78dcc6f05c">
+    <img width="787" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/11639c69-ccf2-4cac-9ea7-26a5c5a7e27d">
 
 6. Exported the training data as 'medical_condition_risk.csv'
     <img width="784" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/614cb116-3dea-4372-be0c-d2ea0091d8cb">
+
+Web Application using HTML, CSS, JavaScript, CSV file as database
 
 
 
