@@ -1,5 +1,5 @@
 # healthCare_DataAnalysis_DS_Assessment
-The Healthcare Risk Assessment repository is a web application designed to assess an individual's risk for certain medical conditions based on their gender and blood group. I worked on it as a part of Assessment  for Dasault Systemes 'Data Analyst' role.
+The Healthcare Risk Assessment repository is a web application designed to assess an individual's risk for certain medical conditions based on their gender and blood group. I worked on it as a part of Assessment  for Dasault Systemes 'Data Analyst' role. Tech used: NumPy, Pandas, Seaborn, Matplotlib
 
 1. Here I imported the healthcare_data to perform analysis on the data using python
   <img width="875" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/b3448afc-f3d9-4953-9010-1647dc4494c3">
