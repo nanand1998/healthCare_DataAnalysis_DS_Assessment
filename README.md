@@ -22,6 +22,11 @@ The Healthcare Risk Assessment repository is a web application designed to asses
 
 Web Application using HTML, CSS, JavaScript, CSV file as database
 
+<img width="1076" alt="image" src="https://github.com/nanand1998/healthCare_DataAnalysis_DS_Assessment/assets/169022470/6c6d2cce-e033-4b38-a28b-68149287e644">
+
+Video demonstration of the application can be found in below drive link
+https://drive.google.com/file/d/1W6dobAqyXBnpYTX1LrrlODSMKh2gIRut/view?usp=sharing
+
 
 
 
