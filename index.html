@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Risk Assessment</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Healthcare Risk Assessment</h1>
+    <form id="healthcareForm">
+
+        <!-- name input -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <!-- gender input -->
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender" required>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select><br><br>
+
+        <!-- bloodgroup Input -->
+        <label for="bloodGroup">Blood Group:</label>
+        <input type="text" id="bloodGroup" name="bloodGroup" required><br><br>
+        
+        <button type="button" onclick="submitForm()">Submit</button>
+    </form>
+
+    <div id="result-container">
+        <div id="result-label">Medical Condition you are at most risk:</div> <!-- Text label -->
+        <div id="result"></div> <!-- This div will display the medical condition -->
+    </div>
+
+    <script src = "script.js">
+    </script>
+
+
+</body>
+</html>

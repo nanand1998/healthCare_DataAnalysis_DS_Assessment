@@ -1,0 +1,17 @@
+Gender,BloodGroupType,MedicalCondition,Count
+Female,A+,Asthma,117
+Female,A-,Cancer,117
+Female,AB+,Obesity,114
+Female,AB-,Hypertension,120
+Female,B+,Cancer,115
+Female,B-,Diabetes,128
+Female,O+,Cancer,131
+Female,O-,Diabetes,102
+Male,A+,Hypertension,109
+Male,A-,Hypertension,113
+Male,AB+,Arthritis,114
+Male,AB-,Obesity,117
+Male,B+,Asthma,109
+Male,B-,Cancer,114
+Male,O+,Arthritis,114
+Male,O-,Hypertension,116
